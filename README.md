@@ -1,2 +1,3 @@
 # my-test-repository
-This is my test repository sample
+
+This is a new edit from my local computer.
